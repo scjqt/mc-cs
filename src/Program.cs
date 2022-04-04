@@ -6,7 +6,7 @@ namespace Minecraft_Clone
     {
         static void Main(string[] args)
         {
-            using var window = new Window("Minecraft Clone");
+            using var window = new Window("mc-cs");
             window.Run();
         }
     }
